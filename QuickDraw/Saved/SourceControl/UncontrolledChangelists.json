@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Background/T_Background.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Misc/T_Cross.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Misc/T_Exclamation.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Attack.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Defeated.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Idle.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Attack.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Defeated.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Idle.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Maps/MAP_Duel.umap",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Background/T_Background_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Misc/T_Cross_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Misc/T_Exclamation_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Attack_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Defeated_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Sprites/Toad/T_Toad_Idle_Sprite.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/GM_Duel.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Input/IMC_Duel.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Input/Actions/IA_Attack.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/Enums/Enumaratos.uasset",
+				"H:/Unreal/Project/QuickDraw/Content/Blueprints/Enums/E_.uasset"
+			]
+		}
+	]
+}
